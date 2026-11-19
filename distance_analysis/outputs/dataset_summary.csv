@@ -1,0 +1,6 @@
+Metric,Value
+Rows,284807.0
+Numeric features,30.0
+Legitimate transactions,284315.0
+Fraudulent transactions,492.0
+Fraud prevalence (%),0.1727485630620034
